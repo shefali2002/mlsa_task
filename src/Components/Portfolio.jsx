@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop image with notebook and coffee.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Lawyer Recommendation System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my first project about lawyer recommendation system.",
+    url: "https://github.com/shefali2002/shefali1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sentiment Analysis",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Did sentiment Analysis on tweets and classified them as positive,negative or neutral.",
+    url: "https://github.com/shefali2002/shefali2",
   },
   {
-    title: "My Resume Site",
+    title: "Chatbot related to agriculture",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created project on chatbot that answers agriculture related queries.",
+    url: "https://github.com/shefali2002/shefali3",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Audio chatbot",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a chatbot that deals with audio inputs and responses.",
+    url: "https://github.com/shefali2002/shefali4",
   },
 ];
 
